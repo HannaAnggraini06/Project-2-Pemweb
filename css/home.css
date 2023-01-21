@@ -1,0 +1,21 @@
+#banner {
+    background: url(/Property/cloud-dark.svg);
+    height: 60vh;
+    width: 100vw;
+}
+
+.benner-mid {
+    /* margin: 0 auto; */
+    margin-top: 20vh;
+}
+
+#search-form {
+    width: 52vw;
+    height: 7vh;
+    margin-left: 20vw;
+}
+
+#buton {
+    height: 7vh;
+    width: 8vh;
+}

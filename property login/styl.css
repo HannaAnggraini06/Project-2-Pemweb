@@ -1,0 +1,57 @@
+body {
+    background: url(/property\ login/bg.png);
+}
+.login-form {
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 20vh;
+    width: 20vw;
+    }
+.login-form .form-control {
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    padding: 10px;
+    margin-bottom: 10px;
+    }
+.login-form .form-control:focus {
+    border-color: #567189;
+    outline: none;
+    }
+.login-form .btn {
+    width: 100%;
+    background-color: #567189;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    padding: 10px;
+    cursor: pointer;
+    }
+.login-form .btn:hover {
+    background-color: #7B8FA1;
+    }
+.login-form .message {
+    margin-top: 20px;
+    color: #b3b3b3;
+    font-size: 12px;
+    }
+.login-form .message a {
+    color: #08a0ce;
+    text-decoration: none;
+    }
+
+.btn1 {
+        width: 100%;
+        background-color: white;
+        color: #820000;
+        border: none;
+        border-radius: 3px;
+        padding: 10px;
+        cursor: pointer;
+    }
+
+.btn1:hover {
+    background-color: #EEEEEE;
+    }
